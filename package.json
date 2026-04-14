@@ -8,6 +8,13 @@
   "type": "module",
   "exports": {
     ".": "./lib/grammar.js",
+    "./es2016": "./lib/es2016.js",
+    "./es2017": "./lib/es2017.js",
+    "./es2018": "./lib/es2018.js",
+    "./es2019": "./lib/es2019.js",
+    "./es2020": "./lib/es2020.js",
+    "./es2021": "./lib/es2021.js",
+    "./es2022": "./lib/es2022.js",
     "./regex": "./lib/regex.js",
     "./package.json": "./package.json"
   },
